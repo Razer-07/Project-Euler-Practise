@@ -1,0 +1,3 @@
+ACtual solution:  qn5.py 
+
+Others are  different methods of trying , some method did worked for [1,10] but didn't gave answer/ ran infinite loop for [1,20] 

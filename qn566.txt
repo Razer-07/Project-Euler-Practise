@@ -1,0 +1,30 @@
+
+
+360/9 =40
+360/10 = 36
+360/(11)**0.5 ==108.54
+
+---------------------------
+
+G(n) ---> n>c>b>a>9 ---> All combinations' sum of F(a,b,c)
+
+F(a,b,c) --> Minimum no.of pieces flips needed to get all ice on top
+
+calculate c>b>a>9 -->> for F(a,b,c) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
